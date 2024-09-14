@@ -19,5 +19,5 @@ $(document).ready(function(){
     });
     $("#btnMostrar2").click(function(){
         $("#parrafo").show("Slow");
-    })
+    });
 })
